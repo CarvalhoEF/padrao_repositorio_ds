@@ -2,7 +2,7 @@
 
 ## Importância da Limpeza
 Dados limpos são essenciais para análise e modelagem precisas.
-
+ghdgfjdhsfgsjhdgfhdjfghjd
 ## Problemas Comuns
 - Valores missing (NaN, null, vazios)
 - Outliers e valores extremos
