@@ -10,7 +10,7 @@ Técnicas para criar modelos preditivos e analíticos.
 - Redução de dimensionalidade
 
 ## Workflow Básico
-1. Divisão treino/teste
+1. Divisão treino/testeddddd
 2. Seleção de features
 3. Treinamento do modelo
 4. Avaliação de performance
