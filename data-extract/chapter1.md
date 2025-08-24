@@ -1,7 +1,7 @@
 # 📥 Extração de Dados - Capítulo 1
 
 ## Introdução à Extração de Dados
-Técnicas e ferramentas para coleta de dados de diversas fontes.
+Técnicas e ferramentas para coleta de dados de diversas fontesss.
 
 ## Fontes de Dados Comuns
 - Bancos de Dados SQL e NoSQL
