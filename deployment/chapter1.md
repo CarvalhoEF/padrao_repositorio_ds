@@ -1,7 +1,7 @@
 # 🚀 Deployment de Modelos - Capítulo 1
 
 ## O que é Deployment?
-Colocar modelos em produção para uso realddddd.
+Colocar modelos em produção para uso real.
 
 ## Opções de Deployment
 - APIs REST (FastAPI, Flask)
