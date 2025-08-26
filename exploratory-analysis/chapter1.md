@@ -1,7 +1,7 @@
 # 🔍 Análise Exploratória de Dados - Capítulo 1
 
 ## Introdução
-A análise exploratória é a primeira etapa para entender os dados, identificar padrões e detectar anomalias.
+A análise exploratória é a primeira etapa para entender os dados, identificar padrões e detectar anomaliasddddd.
 
 ## Técnicas Principais
 
